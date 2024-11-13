@@ -1,6 +1,6 @@
 
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
-<<H3>NAME: Aakash P</H3>
+<<H3>NAME: REKLIES J P</H3>
 <H3>REGISTER NO: 212222110001</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE: 24.10.2024</H3>

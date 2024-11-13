@@ -5,7 +5,7 @@
 <H3>REGISTER NO: 212223110041</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE: 24.10.2024</H3>
-<Aim:</H3>
+<H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
 
 <H3>Theory:</H3>
